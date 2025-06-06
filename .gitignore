@@ -1,0 +1,16 @@
+# Build outputs
+Builds/
+*.user
+.vs/
+x64/
+Debug/
+Release/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+#IDE files
+*.suo
+*.sdf
+*.opensdf
